@@ -16,9 +16,9 @@ quera class link : https://quera.ir/overview/add_to_course/course/6945
 
 
 #### [Quiz](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/tree/main/Quiz)
-* [Quiz 1.1](
-* [Quiz 1.1]
-* [Quiz 1.1]
-* [Quiz 1.1]
-* [Quiz 1.1]
-* [Quiz 1.1]
+* [Quiz 1.0](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-0.pdf)
+* [Quiz 1.1](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-1.pdf)
+* [Quiz 1.2](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-2.pdf)
+* [Quiz 1.3](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-3.pdf)
+* [Quiz 1.4](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-4.pdf)
+* [Quiz 1.5](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-5.pdf)
