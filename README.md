@@ -1,6 +1,5 @@
 # Basic-Programming-1399-Teacher-Assistant
 
-#### [quera class link](https://quera.ir/overview/add_to_course/course/6945)
 
 #### [Home Works](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/tree/main/HomeWorks)
 * [HW1](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/HomeWorks/HW%201.pdf)
@@ -23,3 +22,6 @@
 * [Quiz 1.3](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-3.pdf)
 * [Quiz 1.4](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-4.pdf)
 * [Quiz 1.5](https://github.com/shafiee-ali/Basic-Programming-1399-Teacher-Assistant/blob/main/Quiz/Quiz01-5.pdf)
+
+
+### [Quera class](https://quera.ir/overview/add_to_course/course/6945)
